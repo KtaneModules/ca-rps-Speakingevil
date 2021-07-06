@@ -1,1 +1,1 @@
-# ca-rps
+#[ModKit Wiki](../../wiki)
